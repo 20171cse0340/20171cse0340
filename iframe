@@ -1,0 +1,10 @@
+<html>
+<head><title>iframe</title>
+</head>
+<body>
+<iframe src="/home/6CSE5/20171cse0340/html/ls1.html"/></iframe>
+<iframe src="/home/6CSE5/20171cse0340/html/ls3.html"/></iframe>
+<iframe src="ls1.html"height="200" width="300"name="iframe_a"></iframe>
+<p><a href="https://www.presidencyuniversity.in" target="iframe_a">load new web</a></p>
+</body>
+</html>

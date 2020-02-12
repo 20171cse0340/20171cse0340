@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>frame</title>
+</head>
+
+<frameset rows="40%,*">
+<frameset cols="30%,*">
+<frame name="top" src="/home/6CSE5/20171cse0340/html/ls1.html"/>
+<frame name="main" src="/home/6CSE5/20171cse0340/html/ls1.html"/>
+</frameset>
+<frameset cols="30%,*">
+<frame name="bottom" src="/home/6CSE5/20171cse0340/html/ls1.html"/>
+<frame name="bottom" src="/home/6CSE5/20171cse0340/html/ls1.html"/>
+</frameset>
+<frame name="bottom" src="/home/6CSE5/20171cse0340/html/ls1.html"/>
+</frameset>
+</html>
